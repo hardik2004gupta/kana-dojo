@@ -44,7 +44,7 @@
   {
   "termA": "ハイテンション (haitenshon)",
   "termB": "high tension (English)",
-  "explanation": "Means very energetic mood. (Set 4)",
+  "explanation": "Means very energetic mood. (Set 2)",
   "example": "試合前はみんなハイテンションだった。"
 },
   {
@@ -178,5 +178,17 @@
   "termB": "seal (animal)",
   "explanation": "シール usually means sticker/label. (Set 6)",
   "example": "ノートにシールを貼った。"
-  }
+  },
+  {
+  "termA": "チャレンジ (charenji)",
+  "termB": "challenge (English)",
+  "explanation": "Often means trying something new. (Set 1)",
+  "example": "新しい料理にチャレンジしてみる。"
+  },
+  {
+  "termA": "クレーム (kureemu)",
+  "termB": "claim (English)",
+  "explanation": "In Japanese it usually means complaint. (Set 5)",
+  "example": "お客様からクレームが届いた。"
+}
 ]
